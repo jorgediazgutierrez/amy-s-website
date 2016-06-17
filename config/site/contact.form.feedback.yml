@@ -1,0 +1,12 @@
+uuid: f7265078-1a43-4389-8cbb-2d14bcc2d352
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - jorge@evolvingweb.ca
+reply: ''
+weight: 0

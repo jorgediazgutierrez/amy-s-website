@@ -1,0 +1,14 @@
+uuid: 1c212121-c35f-4a65-8e62-73ee87fe6d5d
+name: 'Amy''s Drupal 8 Site'
+mail: jorge@evolvingweb.ca
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
